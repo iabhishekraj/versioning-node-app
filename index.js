@@ -11,7 +11,7 @@ class Versioning {
     const version = this.readVersion();
     console.log('version ', version);
   }
-  
+
 }
 
 const v = new Versioning();
